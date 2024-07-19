@@ -1,0 +1,1419 @@
+{
+    "LABEL": "中文",
+    "SEARCH": "搜索",
+    "CANCEL": "取消",
+    "NOW": "刚刚",
+    "D": "d",
+    "H": "h",
+    "M": "m",
+    "S": "s",
+
+    "APPS": {
+        "SETTINGS": {
+            "TITLE": "设置",
+			"BACK": "返回",
+			"DONE": "完成",
+			"EDIT": "编辑",
+			"AIRPLANE_MODE": "飞行模式",
+			"STREAMER_MODE": "主播模式",
+			"BLUETOOTH": "蓝牙",
+			"GENERAL": "常规",
+			"ABOUT": "关于",
+			"NAME": "名称",
+			"VERSION": "版本",
+			"MODEL_NAME": "型号名称",
+			"SERIAL_NUMBER": "序列号",
+			"DEVELOPED_BY": "开发者",
+			"PURCHASE_AT": "购买于",
+			"SONGS": "歌曲",
+			"VIDEOS": "视频",
+			"PHOTOS": "照片",
+			"APPLICATIONS": "应用",
+			"CAPACITY": "容量",
+			"AVAILABLE": "可用",
+			"SOFTWARE_UPDATE": "软件更新",
+			"AUTOMATIC_UPDATES": "自动更新",
+			"DATE_TIME": "日期和时间",
+			"24_HOUR_TIME": "24小时制",
+			"SET_AUTOMATICALLY": "自动设置",
+			"TIME_ZONE": "时区",
+			"LANGUAGE_REGION": "语言和地区",
+			"LANGUAGE": "语言",
+			"TEMPERATURE": "温度",
+			"CELCIUS": "摄氏度",
+			"FAHRENHEIT": "华氏度",
+			"BATTERY": "电池",
+			"SOUND_HAPTICS": "声音和触觉",
+			"SOUND_HAPTICS_PATTERNS": "声音和触觉模式",
+			"RINGTONE": "铃声",
+			"TEXT_TONE": "短信提示音",
+			"RINGTONE_VOLUME": "铃声和警告音量",
+			"DEFAULT": "默认",
+			"PHONE_STORAGE": "手机存储",
+			"STORAGE": "存储",
+			"USED": "已使用",
+			"OF": "的",
+			"DISPLAY_BRIGHTNESS": "显示和亮度",
+			"APPEARANCE": "外观",
+			"AUTOMATIC": "自动",
+			"BRIGHTNESS": "亮度",
+			"PHONE_SCALE": "手机比例",
+			"FRAME_COLOR": "边框颜色",
+			"WALLPAPER": "壁纸",
+			"WALLPAPERS": "壁纸",
+			"CHOOSE_NEW_WALLPAPER": "选择新壁纸",
+			"NOTIFICATIONS": "通知",
+			"ALLOW_NOTIFICATIONS": "允许通知",
+			"SOUNDS": "声音",
+			"PHONE": "电话",
+			"BLOCKED_CONTACTS": "已屏蔽联系人",
+			"MY_NUMBER": "我的号码",
+			"SHOW_CALLER_ID": "显示来电号码",
+            "UNBLOCK_POPUP": {
+				"TITLE": "解除屏蔽号码",
+				"TEXT": "您确定要解除屏蔽此号码吗？",
+				"CANCEL": "取消",
+				"CONFIRM": "解除屏蔽"
+			},
+            "FACE_ID_PASSWORD": "面部识别和密码",
+			"ENTER_PASSCODE": "输入密码",
+			"PASSCODE": "密码",
+			"FACE_ID": "面部识别",
+			"RESET_FACE_ID": "重置面部识别",
+			"ENABLE_FACE_ID": "启用面部识别",
+			"PIN_CODE": "PIN码",
+			"DISABLE_FACE_ID_POPUP": {
+				"TITLE": "关闭面部识别",
+				"TEXT": "您确定要关闭面部识别吗？",
+				"CANCEL": "取消",
+				"CONFIRM": "关闭"
+			},
+			"ENABLE_FACE_ID_POPUP": {
+				"TITLE": "启用面部识别",
+				"TEXT": "您确定要启用面部识别吗？",
+				"CANCEL": "取消",
+				"CONFIRM": "启用"
+			},
+			"DISABLE_PIN_POPUP": {
+				"TITLE": "关闭PIN码",
+				"TEXT": "您确定要关闭PIN码吗？（这也会禁用面部识别）",
+				"CANCEL": "取消",
+				"CONFIRM": "确认"
+			},
+            "TURN_PASSCODE_OFF": "关闭密码",
+			"TURN_PASSCODE_ON": "开启密码",
+			"CHANGE_PASSCODE": "更改密码",
+			"CLOUD_BACKUP": "云备份",
+			"YOUR_PROFILE": "您的个人资料",
+			"CREATE_BACKUP": "创建备份",
+			"SAVE_BACKUP_POPUP": {
+				"TITLE": "保存备份",
+				"TEXT": "您确定要保存数据备份吗？（将保存您的联系人、照片和设置）",
+				"CANCEL": "取消",
+				"CONFIRM": "保存"
+			},
+			"BACKUPS": "备份",
+			"APPLY_BACKUP_POPUP": {
+				"TITLE": "应用备份",
+				"TEXT": "您确定要应用此备份吗？（将覆盖您的联系人、照片和设置）",
+				"CANCEL": "取消",
+				"CONFIRM": "应用"
+			},
+			"SUCCESS": "成功",
+			"SUCCESS_TEXT": "手机将在5秒内重新启动...",
+			"OK": "确定",
+			"ON": "开启",
+			"OFF": "关闭",
+			"REMOVE_BACKUP_POPUP": {
+				"TITLE": "删除备份",
+				"TEXT": "您确定要删除此备份吗？",
+				"CANCEL": "取消",
+				"CONFIRM": "删除"
+			},
+			"RESET_POPUP": {
+				"TITLE": "重置手机",
+				"TEXT": "您确定要重置手机吗？[这将删除所有数据]",
+				"CANCEL": "取消",
+				"CONFIRM": "重置"
+			},
+			"UP_TO_DATE": "您的手机已经是最新版本"
+        },
+        "NOTES": {
+            "TITLE": "笔记",
+			"SEARCH_PLACEHOLDER": "搜索",
+			"FOOTER": "{amount} 笔记",
+			"NEW_NOTE": "新建笔记",
+			"LAST_EDITED": "最后编辑：{date}",
+			"DELETE_TITLE": "删除 {title}",
+			"DELETE_TEXT": "确定要删除 '{title}' 吗？",
+			"BUTTON_CANCEL": "取消",
+			"BUTTON_DELETE": "删除"
+        },
+        "CLOCK": {
+            "WORLDCLOCK": {
+                "TITLE": "世界时钟",
+				"TODAY": "今天",
+				"TOMORROW": "明天",
+				"YESTERDAY": "昨天"
+            },
+            "ALARM": {
+                "TITLE": "闹钟",
+				"ADD": "添加闹钟",
+				"CANCEL": "取消",
+				"EDIT": "编辑",
+				"DONE": "完成",
+				"SAVE": "保存",
+				"LABEL": "标签",
+				"SOUND": "声音",
+				"SNOOZE": "贪睡",
+				"DELETE_TITLE": "删除闹钟",
+				"DELETE_TEXT": "确定要删除此闹钟吗？",
+				"BUTTON_CANCEL": "取消",
+				"BUTTON_DELETE": "删除"
+            },
+            "STOPWATCH": {
+               "TITLE": "秒表",
+				"START": "开始",
+				"STOP": "停止",
+				"RESET": "重置",
+				"LAP": "圈数"
+            },
+            "TIMER": {
+                 "TITLE": "计时器",
+				"START": "开始",
+				"STOP": "停止",
+				"CANCEL": "取消",
+				"HOURS": "小时",
+				"MINUTES": "分钟",
+				"SECONDS": "秒"
+            },
+            "ALERT": {
+                "STOP": "停止"
+            }
+        },
+        "CAMERA": {
+            "VIDEO": "视频",
+			"PHOTO": "照片",
+			"LANDSCAPE": "横屏",
+			"UPLOADING": "上传中"
+        },
+        "DARKCHAT": {
+            "TITLE": "暗黑聊天",
+			"USERNAME": "用户名",
+			"SET_USERNAME": "设置您的用户名。注意：只能设置一次。",
+			"CANCEL": "取消",
+			"SET": "设置",
+			"JOIN": "加入",
+			"LEAVE": "离开",
+			"NEW_ROOM": "新建房间",
+			"NEW_ROOM_TEXT": "输入房间代码以加入或创建房间",
+			"ROOM_CODE": "房间代码",
+			"LEAVE_ROOM": "离开房间",
+			"LEAVE_ROOM_TEXT": "确定要离开这个房间吗？",
+			"NOW": "现在",
+			"INPUT_PLACEHOLDER": "输入消息..."
+        },
+        "APPSTORE": {
+            "TITLE": "应用商店",
+			"SEARCH": "搜索",
+			"GET": "获取",
+			"OPEN": "打开",
+			"TODAY": "今日",
+			"POPULAR_APPS": "热门应用",
+			"GAMES": "游戏",
+			"APPS": "应用",
+			"WHAT_WE_PLAYING": "我们在玩什么",
+			"INFORMATION": "信息",
+			"PROVIDER": "提供商",
+			"SIZE": "大小",
+			"COMPATIBILITY": "兼容性",
+			"IN_APP_PURCHASES": "应用内购买",
+			"WORKS_WITH_PHONE": "与此手机兼容",
+			"NO": "否",
+			"YES": "是",
+			"PURCHASE_APP_POPUP": {
+				"TITLE": "购买应用",
+				"DESCRIPTION": "是否要购买 {app}，价格为 {price}？",
+				"CANCEL": "取消",
+				"PROCEED": "购买"
+    }
+        },
+        "PHOTOS": {
+            "TITLE": "照片",
+			"SELECT": "选择",
+			"CANCEL": "取消",
+			"SELECT_ITEMS": "选择项目",
+			"SELECTED_COUNT": "已选择 {count} 项",
+			"PHOTO_COUNT": "{count} 张照片",
+			"DELETE_TITLE": "删除 {count} 张图片",
+			"DELETE_TEXT": "是否要删除 {count} 张图片",
+			"DELETE_BUTTON_CANCEL": "取消",
+			"DELETE_BUTTON_DELETE": "删除",
+			"DELETE_IMAGE_TITLE": "删除图片",
+			"DELETE_IMAGE_TEXT": "是否要删除此图片？",
+			"DELETE_IMAGE_BUTTON_CANCEL": "取消",
+			"DELETE_IMAGE_BUTTON_DELETE": "删除"
+        },
+        "WEATHER": {
+            "TITLE": "天气",
+			"HOURLY_FORECAST": "逐小时天气预报",
+			"NOW": "现在",
+			"FEELS_LIKE": "体感温度",
+			"FEELS_LIKE_SAME": "与实际温度相似。",
+			"FEELS_LIKE_HUMIDITY": "湿度使其感觉更温暖",
+			"FEELS_LIKE_WIND": "风使其感觉更凉爽",
+			"SUNRISE": "日出",
+			"SUNSET": "日落",
+			"WIND": "风",
+			"PRECIPITATION": "降水",
+			"LAST_24H": "过去24小时内",
+			"EXPECTED_24H": "预计未来24小时内",
+			"TYPES": {
+				"CLOUDY": "多云",
+				"LIGHT_RAIN": "小雨",
+				"HEAVY_RAIN": "大雨",
+				"RAIN": "雨",
+				"SNOW": "雪",
+				"FOG": "雾",
+				"CLEAR": "晴朗",
+				"MOSTLY_CLEAR": "大部分晴朗",
+				"THUNDER": "雷暴",
+				"TORNADO": "龙卷风",
+				"WINDY": "有风"
+            }
+        },
+        "MESSAGES": {       
+            "TITLE": "消息",
+			"NEW_MESSAGE": "新消息",
+			"PEOPLE": "联系人",
+			"MEMBERS": "成员",
+			"OTHER": "其他",
+			"SENT_A_PHOTO": "发送了照片",
+			"SENT_AUDIO_MESSAGE": "发送了语音消息",
+			"SENT": "已发送",
+			"REQUESTED": "已请求",
+			"MISSED_CALL": "{number} 尝试联系您，但您未接听，点击号码以回拨",
+			"NOT_DELIVERED": "未送达",
+			"PLACEHOLDER": "文字消息",
+			"DONE": "完成",
+			"EDIT": "编辑",
+			"READ": "已读",
+			"CANCEL": "取消",
+			"SEND": "发送",
+			"UNKNOWN": "未知",
+			"TO": "发送至",
+			"SEARCH": "搜索",
+			"ADD_MEMBER": "添加成员",
+			"SHARE_LOCATION": "分享我的位置",
+			"LEAVE_GROUP": "退出会话",
+			"SENT_LOCATION": "已分享位置，点击在地图中打开",
+			"SENT_LOCATION_SHORT": "已分享位置",
+			"TRIED_TO_CALL": "{number} 尝试联系您",
+			"DELETE": "删除",
+            "REMOVE_POPUP": {
+				"TITLE": "移除成员",
+				"TEXT": "确定要从群组中移除 {name} 吗？",
+				"REMOVE": "移除"
+			},
+			"LEAVE_POPUP": {
+				"TITLE": "退出群组",
+				"TEXT": "确定要退出此群组吗？",
+				"LEAVE": "退出"
+			},
+			"ADD_POPUP": {
+				"TITLE": "添加成员",
+				"TEXT": "输入要添加到 '{name}' 群组的号码？",
+				"ADD": "添加"
+			},
+			"SEND_LOCATION_POPUP": {
+				"TITLE": "分享位置",
+				"TEXT": "是否要分享您的位置？",
+				"CANCEL": "取消",
+				"SEND": "发送"
+			},
+            "PAY": {
+                "REQUEST": "请求",
+				"REQUESTED": "已请求",
+				"PAY": "付款",
+				"SEND": "发送",
+				"SEND_TITLE": "发送 {amount}",
+				"SEND_DESCRIPTION": "是否要向 {name} 发送 {amount}？",
+				"SEND_BUTTON_CANCEL": "取消",
+				"SEND_BUTTON_SEND": "发送"
+            },
+            "PAYMENT_FAILED_POPUP": {
+				"TITLE": "支付失败",
+				"DESCRIPTION": "错误：{error}",
+				"CLOSE": "关闭"
+			},
+			"DELETE_CONVERSATION": {
+				"TITLE": "删除会话",
+				"DESCRIPTION": "确定要删除此会话吗？"
+			},
+			"MARK_AS_READ": "标记为已读"
+        },
+        "PHONE": {
+            "TITLE": "电话",
+			"DONE": "完成",
+			"EDIT": "编辑",
+			"CANCEL": "取消",
+			"CALL": {
+				"CALL_TITLE": "呼叫 {name}",
+				"CALL_TEXT": "确定要呼叫 {name} 吗？",
+				"CALL_BUTTON_CANCEL": "取消",
+				"CALL_BUTTON_CALL": "呼叫",
+				"NO_CALLER_ID": "无来电显示",
+				"UNKNOWN": "未知",
+				"USER_BUSY": "用户忙",
+				"USER_UNAVAILABLE": "用户不可用",
+				"CALL_BACK": "回拨",
+				"DECLINE": "拒绝",
+				"ACCEPT": "接受",
+				"END": "结束",
+				"VIDEO_CALL": "视频通话",
+				"MUTE": "静音",
+				"KEYPAD": "键盘",
+				"SPEAKER": "扬声器",
+				"ADD_CALL": "添加通话",
+				"VIDEO": "视频",
+				"CONTACTS": "联系人",
+				"MOBILE": "移动电话"
+            },
+            "CONTACTS": {
+                "TITLE": "联系人",
+				"FIRST_NAME": "名字",
+				"LAST_NAME": "姓氏",
+				"PHONE_NUMBER": "电话号码",
+				"MY_CARD": "我的名片",
+				"ADD_PHOTO": "添加照片",
+				"REMOVE_CONTACT_TITLE": "移除联系人",
+				"REMOVE_CONTACT_TEXT": "确定要移除此联系人吗？",
+				"REMOVE_CONTACT_BUTTON_CANCEL": "取消",
+				"REMOVE_CONTACT_BUTTON_DELETE": "删除",
+				"DELETE_CONTACT": "删除联系人",
+				"MESSAGE": "消息",
+				"CALL": "呼叫",
+				"VIDEO": "视频",
+				"MAIN": "主要",
+				"SHARE_CONTACT": "分享联系人",
+				"SHARE_LOCATION": "分享我的位置",
+				"REMOVE_FAVORITE": "从收藏中移除",
+				"ADD_FAVORITE": "添加到收藏",
+				"ADD_CONTACT": "添加到联系人",
+				"UNBLOCK_CALLER": "解除对此来电者的屏蔽",
+				"BLOCK_CALLER": "屏蔽此来电者",
+				"UNBLOCK_NUMBER_TITLE": "解除屏蔽号码",
+				"UNBLOCK_NUMBER_TEXT": "确定要解除对 {number} 的屏蔽吗？",
+				"UNBLOCK_NUMBER_BUTTON_CANCEL": "取消",
+				"UNBLOCK_NUMBER_BUTTON_UNBLOCK": "解除屏蔽",
+				"BLOCK_NUMBER_TITLE": "屏蔽号码",
+				"BLOCK_NUMBER_TEXT": "确定要屏蔽 {number} 吗？",
+				"BLOCK_NUMBER_BUTTON_CANCEL": "取消",
+				"BLOCK_NUMBER_BUTTON_BLOCK": "屏蔽",
+				"EMAIL": "电子邮件",
+				"ADDRESS": "地址"
+            },
+            "FAVOURITES": {
+                "TITLE": "收藏",
+				"REMOVE_TITLE": "从收藏中移除",
+				"REMOVE_TEXT": "确定要从收藏中移除此联系人吗？",
+				"REMOVE_BUTTON_CANCEL": "取消",
+				"REMOVE_BUTTON_REMOVE": "移除"
+            },
+            "KEYPAD": {
+                "TITLE": "拨号键盘",
+				"ADD_NUMBER": "添加号码"
+            },
+            "RECENTS": {
+                "TITLE": "最近通话记录"
+            },
+            "VOICEMAIL": {
+                "TITLE": "语音信箱",
+				"AT": "添加",
+				"DELETE_POPUP": {
+					"TITLE": "删除语音信箱",
+					"DESCRIPTION": "确定要删除此语音信箱吗？",
+					"CANCEL": "取消",
+					"PROCEED": "删除"
+				},
+				"CALL_POPUP": {
+					"TITLE": "呼叫",
+					"DESCRIPTION": "确定要呼叫 {number} 吗？",
+					"CANCEL": "取消",
+					"PROCEED": "呼叫"
+				}
+            }
+        },
+        "WALLET": {
+            "TITLE": "钱包",
+			"BALANCE": "余额",
+			"SEND": "发送",
+			"NEXT": "下一步",
+			"DONE": "完成",
+			"DONE_SUBTITLE": "您向 {number} 发送了 {amount}",
+			"NO_REFUNDS": "付款不可退款，请仔细检查号码。",
+			"NEW_BALANCE": "新余额",
+			"LATEST_TRANSACTIONS": "最新交易",
+			"LATEST_BILLS": "最新账单",
+			"NOW": "现在",
+			"AGO": "前",
+			"NUMBER_DOES_NOT_EXIST": "号码不存在/玩家不在线",
+			"NOT_ENOUGH_MONEY": "您的余额不足",
+			"SELECT_CONTACT": "选择联系人"
+        },
+        "GARAGE": {
+            "TITLTE": "车库",
+			"ACTIONS": "操作",
+			"MY_CARS": "我的车辆",
+			"OUT": "外出",
+			"GARAGE": "车库",
+			"LOCATION": "位置",
+			"SUMMON": "召唤",
+			"VALET": "代客泊车",
+			"STATISTICS": "统计数据",
+			"FUEL": "燃料",
+			"ENGINE": "引擎",
+			"BODY": "车身",
+			"VEHICLE": "车辆",
+			"STATUS": "状态",
+			"LOCKED": "已锁定",
+			"LOCK": "锁定",
+			"UNLOCKED": "已解锁",
+			"UNLOCK": "解锁",
+
+            "WAYPOINT_POPUP": {
+                "TITLE": "设置路标",
+				"TEXT": "您是否要为 {model} 设置路标？",
+				"CANCEL": "取消",
+				"PROCEED": "继续"
+            },
+            "VALET_POPUP": {
+                "TITLE": "代客泊车",
+				"TEXT": "您是否要代客泊车您的 {model}（{plate}）？",
+				"TEXT_PAID": "您是否愿意支付 {amount} 代客泊车您的 {model}（{plate}）？",
+				"CANCEL": "取消",
+				"PROCEED": "继续"
+            },
+            "LOCK_POPUP": {
+                "TITLE": "{toggle} 车辆",
+				"TEXT": "您是否要{toggle}您的车辆？",
+				"CANCEL": "取消",
+				"PROCEED": "继续"
+            }
+        },
+        "HOME": {
+            "TITLE": "家",
+			"MY_HOMES": "我的家",
+			"MY_HOME": "我的家",
+			"KEY_ACCESS": "钥匙访问",
+			"ACTIONS": "操作",
+			"FRONT_DOOR": "前门",
+			"LOCATION": "位置",
+			"SET_WAYPOINT": "设置路标",
+			"UNLOCK": "解锁",
+			"UNLOCKED": "已解锁",
+			"LOCK": "锁定",
+			"LOCKED": "已锁定",
+			"GIVE_KEY": "赠送钥匙",
+			"MANAGE": "管理",
+            "WAYPOINT_POPUP": {
+                "TITLE": "设置路标",
+				"TEXT": "您是否要为 {home} 设置路标？",
+				"CANCEL": "取消",
+				"PROCEED": "继续"
+            },
+            "LOCK_POPUP": {
+                "TITLE": "{toggle} 家",
+				"TEXT": "您是否要{toggle}您的家？",
+				"CANCEL": "取消",
+				"PROCEED": "继续"
+            },
+            "GIVE_KEY_POPUP": {
+               "TITLE": "赠送钥匙",
+				"TEXT": "输入您要赠送钥匙的人的 ID",
+				"CANCEL": "取消",
+				"PROCEED": "继续"
+            },
+            "REMOVE_KEY_POPUP": {
+                "TITLE": "删除持钥匙人",
+				"TEXT": "您是否确定要移除 {name} 的访问权限？",
+				"CANCEL": "取消",
+				"PROCEED": "继续"
+            }
+        },
+        "MARKETPLACE": {
+            "CANCEL": "取消",
+			"SEARCH": "搜索列表或号码",
+			"NEW_POST": "新帖子",
+			"TITLE": "标题",
+			"DESCRIPTION": "描述",
+			"PRICE": "价格",
+			"POST": "发布",
+			"CONTACT": "联系方式",
+			"REMOVE": "移除",
+            "ERROR_POPUP": {
+                "TITLE": "错误",
+				"NO_TITLE": "您需要输入标题",
+				"NO_DESCRIPTION": "您需要输入描述",
+				"NO_PRICE": "您需要输入价格",
+				"NO_ATTACHMENTS": "您需要至少附加一张图片",
+				"OK": "确定"
+            },
+            "DELETE_POPUP": {
+                "TITLE": "删除列表",
+				"TEXT": "您是否确定要删除此列表？",
+				"CANCEL": "取消",
+				"PROCEED": "删除"
+            }
+        },
+        "YELLOWPAGES": {
+            "SEARCH": "搜索帖子或号码",
+			"FROM": "来自",
+			"CANCEL": "取消",
+			"NEW_POST": "新帖子",
+			"TITLE": "标题",
+			"DESCRIPTION": "描述",
+			"PRICE": "价格",
+			"POST": "发布",
+			"CALL": "呼叫",
+            "ERROR_POPUP": {
+                "TITLE": "错误",
+				"NO_TITLE": "您需要输入标题",
+				"NO_DESCRIPTION": "您需要输入描述",
+				"OK": "确定"
+            },
+            "DELETE_POPUP": {
+                "TITLE": "删除帖子",
+				"TEXT": "您是否确定要删除此帖子？",
+				"CANCEL": "取消",
+				"PROCEED": "删除"
+            }
+        },
+        "MAIL": {
+            "TITLE": "邮件",
+			"YOU": "您",
+			"UPDATED_NOW": "刚刚更新",
+			"NEW_MESSAGE": "新消息",
+			"INBOX": "收件箱",
+			"TO": "收件人",
+			"FROM": "发件人",
+			"SUBJECT": "主题",
+			"MESSAGE": "消息",
+			"CANCEL": "取消",
+			"SEND": "发送",
+			"EMAIL": "电子邮件",
+			"EMAIL_INVALID": "无效的电子邮件地址",
+			"EMAIL_EXISTS": "电子邮件已存在",
+			"PASSWORD": "密码",
+			"WRONG_PASSWORD": "密码错误",
+			"LOGIN": "登录",
+			"NO_EMAIL": "还没有电子邮件地址？",
+			"CREATE_ONE": "创建一个",
+			"UNREAD": "未读",
+			"CREATE_MAIL": "创建电子邮件",
+			"ALREADY_HAVE": "已经有电子邮件地址？",
+			"SIGN_OUT_POPUP": {
+				"TITLE": "退出登录",
+				"DESCRIPTION": "您确定要退出登录吗？",
+				"CANCEL": "取消",
+				"PROCEED": "继续"
+			}
+        },
+        "MAPS": {
+            "TITLE": "地图",
+			"GO": "前往",
+			"ADD": "添加",
+			"EDIT": "编辑",
+			"DELETE": "删除",
+			"SET_WAYPOINT": "设置路标",
+			"SHARE": "分享",
+
+            "ADD_LOCATION_POPUP": {
+				"TITLE": "添加位置",
+				"DESCRIPTION": "输入您要添加的位置名称",
+				"PLACEHOLDER": "名称",
+				"CANCEL": "取消",
+				"PROCEED": "继续"
+			},
+			"CHANGE_NAME_POPUP": {
+				"TITLE": "更改名称",
+				"DESCRIPTION": "输入新的位置名称",
+				"PLACEHOLDER": "名称",
+				"CANCEL": "取消",
+				"PROCEED": "继续"
+			}
+        },
+        "MUSIC": {
+            "TITLE": "音乐",
+			"LIBRARY": "音乐库",
+			"SEARCH": "搜索",
+			"ADD_QUEUE": "添加到队列",
+			"ADD_PLAYLIST": "添加到播放列表",
+			"REMOVE_SONG": "移除歌曲",
+			"NOT_PLAYING": "未播放",
+			"EDIT_PLAYLIST": "编辑播放列表",
+			"DELETE_PLAYLIST": "删除播放列表",
+			"SEARCH_PLACEHOLDER": "艺术家、歌曲、专辑、播放列表",
+			"SONGS": "歌曲",
+			"ALBUMS": "专辑",
+			"PLAY": "播放",
+			"SHUFFLE": "随机播放",
+			"ARTIST": "艺术家",
+			"ALBUM": "专辑",
+			"PLAYLIST": "播放列表",
+			"SONG": "歌曲",
+			"SONG_EXISTS_POPUP": {
+				"TITLE": "歌曲已存在",
+				"DESCRIPTION": "此歌曲已存在于播放列表中",
+				"CANCEL": "取消"
+			},
+			"NEW_PLAYLIST_POPUP": {
+				"TITLE": "新建播放列表",
+				"DESCRIPTION": "创建一个新的播放列表",
+				"PLACEHOLDER": "播放列表名称",
+				"CANCEL": "取消",
+				"PROCEED": "继续"
+			},
+			"REMOVE_SONG_POPUP": {
+				"TITLE": "移除歌曲",
+				"DESCRIPTION": "您确定要从播放列表中移除此歌曲吗？",
+				"CANCEL": "取消",
+				"PROCEED": "继续"
+			}
+        },
+        "TINDER": {
+            "TITLE": "Tinder",
+			"LIKES_YOU_TOO": "也喜欢您！",
+			"KEEP_SWIPING": "继续滑动",
+			"SAY_SOMETHING_NICE": "说点好话",
+			"NO_MORE": "我们已经没有更多人供您滑动，请稍后再来！",
+			"SEND": "发送",
+			"AGREE_TERMS": "点击“创建帐户”即表示您同意我们的服务条款和隐私政策",
+			"CREATE_ACCOUNT": "创建帐户",
+			"AGE_PUBLIC": "您的年龄将对外公开",
+			"BE_OVER_18": "您必须年满18岁才能使用此服务",
+			"NAME_MINIMUM": "您的名字必须至少包含3个字符",
+			"ADD_PHOTOS": "添加照片",
+			"PHOTOS_MINIMUM": "您必须至少上传一张照片",
+			"DESCRIPTION": "向我们介绍一下自己",
+			"DESCRIPTION_MINIMUM": "您的介绍必须至少包含10个字符",
+			"SHOW_ME": "显示给我",
+			"WOMEN": "女性",
+			"MEN": "男性",
+			"EVERYONE": "所有人",
+			"EVERYTHING": "所有",
+			"I_AM": "我是",
+			"MALE": "男性",
+			"FEMALE": "女性",
+			"CONTINUE": "继续",
+			"NAME": "名字",
+			"PHOTOS": "照片",
+			"ABOUT_ME": "关于我",
+			"INTERESTED_IN": "感兴趣的人",
+			"GENDER": "性别",
+			"SAVE": "保存",
+			"NEW_MATCHES": "新匹配",
+			"MESSAGES": "消息",
+			"SEARCH_MATCHES": "搜索匹配"
+        },
+        "INSTAGRAM": {
+            "TITLE": "Instagram",
+			"SEND": "发送",
+			"POST": "发布",
+			"MESSAGE_PLACEHOLDER": "消息...",
+			"NEW_MESSAGE": "新消息",
+			"NOW": "现在",
+            "GO_LIVE_POPUP": {
+				"TITLE": "开始直播",
+				"DESCRIPTION": "您确定要开始直播吗？",
+				"CANCEL": "取消",
+				"PROCEED": "继续"
+			},
+			"END_LIVE_POPUP": {
+				"TITLE": "结束直播",
+				"DESCRIPTION": "您确定要{action}此直播吗？",
+				"CANCEL": "取消",
+				"END": "结束",
+				"LEAVE": "离开"
+			},
+			"UNFOLLOW_POPUP": {
+				"TITLE": "取消关注",
+				"DESCRIPTION": "您确定要取消关注{name}吗？",
+				"CANCEL": "取消",
+				"PROCEED": "继续"
+			},
+			"DELETE_POST_POPUP": {
+				"TITLE": "删除帖子",
+				"DESCRIPTION": "您确定要删除此帖子吗？",
+				"CANCEL": "取消",
+				"PROCEED": "继续"
+			},
+			"SIGN_OUT_POPUP": {
+				"TITLE": "登出",
+				"DESCRIPTION": "您确定要退出登录吗？",
+				"CANCEL": "取消",
+				"PROCEED": "继续"
+			},
+			"DELETE_STORY": {
+				"TITLE": "删除动态",
+				"DESCRIPTION": "您确定要删除此动态吗？",
+				"CANCEL": "取消",
+				"PROCEED": "继续"
+			},
+			"INVITE_LIVE_POPUP": {
+				"TITLE": "直播邀请",
+				"DESCRIPTION": "{username}邀请您参加他们的直播，您要加入吗？",
+				"NO": "否",
+				"YES": "是"
+			},
+			"REMOVE_LIVE_POPUP": {
+				"TITLE": "移除{username}",
+				"DESCRIPTION": "您确定要将{username}从您的直播中移除吗？",
+				"CANCEL": "取消",
+				"REMOVE": "移除"
+			},
+			"LEAVE_LIVE_POPUP": {
+				"TITLE": "离开直播",
+				"DESCRIPTION": "您确定要离开此直播吗？",
+				"LEAVE": "离开"
+			},
+            "LIVE_ENDED": "直播已结束",
+			"COMMENT_PLACEHOLDER": "评论",
+			"LIVE": "直播",
+			"YOUR_STORY": "您的动态",
+			"CREATE_STORY": "创建动态",
+			"GO_LIVE": "开始直播",
+			"EMPTY_FEED": "开始关注其他人，查看他们的照片和视频",
+			"COMMENTS": "评论",
+			"ADD_COMMENT_AS": "以{name}的身份添加评论",
+			"NEW_POST": "新帖子",
+			"NEXT": "下一步",
+			"CAPTION_PLACEHOLDER": "撰写说明...",
+			"ACTIVITY": "活动",
+			"FOLLOW": "关注",
+			"FOLLOWING": "正在关注",
+			"FOLLOWERS": "粉丝",
+			"FOLLOWER": "粉丝",
+			"REQUESTED": "已请求",
+			"LIKES": "赞",
+			"LIKED_BY": "赞者",
+			"VIEW_ALL_COMMENTS": "查看所有{count}条评论",
+			"FIRST_COMMENT": "第一个评论...",
+			"NO_ACCOUNT": "没有与此用户名匹配的帐户",
+			"WRONG_USERNAME_OR_PASSWORD": "用户名或密码错误",
+			"LOG_IN": "登录",
+			"ACCOUNT_WITH_USERNAME": "已存在此用户名的帐户",
+			"CREATE_ACCOUNT": "创建帐户",
+			"USERNAME_PLACEHOLDER": "用户名",
+			"NAME_PLACEHOLDER": "名字",
+			"PASSWORD_PLACEHOLDER": "密码",
+			"NOT_HAVE_ACCOUNT": "没有帐户吗？",
+			"HAVE_ACCOUNT": "已有帐户？",
+			"LIKED_PHOTO": "喜欢了您的照片。",
+			"LIKED_COMMENT": "喜欢了您的评论：{comment}",
+			"COMMENTED": "评论了您的帖子：{comment}",
+			"FOLLOWED": "开始关注您。",
+			"DONE": "完成",
+			"EDIT_PROFILE": "编辑个人资料",
+			"CHANGE_PICTURE": "更改头像",
+			"NAME": "名字",
+			"BIO": "个人简介",
+			"PRIVATE": "切换为私人",
+			"SIGN_OUT": "退出登录",
+			"POSTS": "帖子",
+			"MESSAGE": "消息",
+			"SENT_A_PHOTO": "发送了一张照片",
+			"TO": "收件人",
+			"SEND_A_MESSAGE": "发送消息...",
+			"STORY_VIEWERS": "观看者",
+			"PARTICIPANTS": "参与者",
+			"SEEN_BY": "已查看{count}次",
+			"ADD_ACCOUNT": "添加帐户",
+			"INVITE": "邀请",
+			"REMOVE": "移除",
+			"IN_THIS_ROOM": "在此房间",
+			"WHOS_WATCHING": "谁在观看",
+			"FOLLOW_REQUESTS": "关注请求",
+			"CONFIRM": "确认",
+			"DELETE": "删除",
+			"ANDOTHERS": "{username} + {amount} 人"
+        },
+        "TWITTER": {
+            "TITLE": "推特",
+            "SEARCH_FOR": "搜索 '{search}'",
+			"START_SEARCHING": "开始搜索，探索鸟语",
+			"TRENDING_HASHTAGS": "热门话题",
+			"SENT_ATTACHMENT": "发送了一个附件",
+			"TO": "发送给",
+			"TWEETS": "推文",
+			"REPLIES": "回复",
+			"MEDIA": "媒体",
+			"LIKES": "喜欢",
+			"CANCEL": "取消",
+			"TWEET": "发推",
+			"TWEET_REPLY": "发表回复",
+			"TWEET_GENERAL": "发生了什么？",
+			"EDIT_PROFILE": "编辑个人资料",
+			"SAVE": "保存",
+			"NAME": "姓名",
+			"JOIN_DATE": "加入日期",
+			"PROTECTED_POSTS": "保护您的推文",
+			"BIO": "个人简介",
+			"SIGN_OUT": "退出登录",
+            "SIGN_OUT_POPUP": {
+				"TITLE": "退出登录",
+				"DESCRIPTION": "您确定要退出登录吗？",
+				"CANCEL": "取消",
+				"PROCEED": "继续"
+			},
+			"UNFOLLOW_POPUP": {
+				"TITLE": "取消关注",
+				"DESCRIPTION": "您确定要取消关注{name}吗？",
+				"CANCEL": "取消",
+				"PROCEED": "继续"
+			},
+			"RETWEET_POPUP": {
+				"RETWEET": "转发",
+				"UNDO_RETWEET": "撤销转发",
+				"DESCRIPTION": "您确定要{action}吗？",
+				"CANCEL": "取消",
+				"PROCEED": "继续"
+			},
+			"DELETE_POPUP": {
+				"TITLE": "删除推文",
+				"DESCRIPTION": "您确定要删除此推文吗？",
+				"CANCEL": "取消",
+				"PROCEED": "继续"
+			},
+			"NOTIFICATIONS_POPUP": {
+				"TITLE": "通知",
+				"DESCRIPTION": "您确定要{action} @{name} 的通知吗？",
+				"CANCEL": "取消",
+				"PROCEED": "继续",
+				"ENABLE": "启用",
+				"DISABLE": "禁用"
+			},
+			"PROMOTE_POPUP": {
+				"TITLE": "推广推文",
+				"DESCRIPTION": "您要花费 {price} 推广此推文以获得 {views} 次查看吗？",
+				"CANCEL": "取消",
+				"PROCEED": "继续"
+			},
+            "YOU": "您",
+			"FOLLOW": "关注",
+			"PENDING": "待处理",
+			"FOLLOWING": "关注中",
+			"FOLLOWERS": "粉丝",
+			"RETWEETED": "转发",
+			"REPLYING_TO": "回复给{name}",
+			"RETWEETED_BY": "转发者",
+			"LIKED_BY": "喜欢者",
+			"ALL": "所有",
+			"NOTIFICATIONS": "通知",
+			"FOLLOWS_YOU": "关注您",
+			"JOINED": "加入于 {date}",
+			"LIKED_TWEET": "喜欢了您的推文",
+			"RETWEETED_TWEET": "转发了您的推文",
+			"FOLLOWED": "关注了您",
+			"SIGN_UP_TEXT": "看看当下世界发生了什么",
+			"TERMS_OF_SERVICE": "通过注册，您同意我们的服务条款和隐私政策。",
+			"HAS_ACCOUNT": "已有帐户？",
+			"CREATE_YOUR_ACCOUNT": "创建您的帐户",
+			"NAME_PLACEHOLDER": "姓名",
+			"USERNAME_PLACEHOLDER": "用户名",
+			"PASSWORD_PLACEHOLDER": "密码",
+			"GET_STARTED": "要开始，请首先输入您的 @用户名",
+			"FORGOT_PASSWORD": "忘记密码？",
+			"ENTER_PASSWORD": "输入您的密码",
+			"SEARCH_DIRECT_MESSAGES": "搜索私信",
+			"SEARCH_TWITTER": "搜索鸟语",
+			"MESSAGE_PLACEHOLDER": "消息...",
+			"NOW": "现在",
+			"LOGIN": "登录",
+			"CREATE_ACCOUNT": "创建帐户",
+			"PROMOTE": "推广",
+			"PIN": "固定推文",
+			"UNPIN": "取消固定推文",
+			"NEW_MESSAGE": "新消息",
+			"PROMOTED": "推广",
+			"ADD_ACCOUNT": "添加帐户",
+			"FOLLOWER_REQUESTS": "关注请求",
+			"NEW_POSTS": "新推文"
+        },
+        "SERVICES": {
+            "ACTIONS": "操作",
+			"COMPANIES": "公司",
+			"MESSAGES": "消息",
+
+			"CLOSED": "已关闭",
+			"YOUR_MESSAGES": "您的消息",
+			"JOB_MESSAGES": "工作消息",
+
+			"DUTY": "职责",
+			"GO_ON_DUTY": "开始工作",
+			"GO_OFF_DUTY": "结束工作",
+			"JOB_CALLS": "工作呼叫",
+			"DISABLE_CALLS": "禁用呼叫",
+			"ENABLE_CALLS": "启用呼叫",
+			"BALANCE": "余额",
+			"MANAGE_EMPLOYEES": "管理员工",
+			"HIRE": "雇佣",
+			"SET_GRADE": "设置等级",
+			"UNEMPLOYED": "您目前无业",
+
+			"DEPOSIT_POPUP": {
+				"TITLE": "存款",
+				"DESCRIPTION": "将资金存入公司帐户",
+				"AMOUNT": "金额",
+				"CANCEL": "取消",
+				"PROCEED": "继续"
+			},
+			"WITHDRAW_POPUP": {
+				"TITLE": "提款",
+				"DESCRIPTION": "从公司帐户提取资金",
+				"AMOUNT": "金额",
+				"CANCEL": "取消",
+				"PROCEED": "继续"
+			},
+			"HIRE_POPUP": {
+				"TITLE": "雇佣",
+				"DESCRIPTION": "雇佣新员工",
+				"PLACEHOLDER": "ID",
+				"CANCEL": "取消",
+				"PROCEED": "继续"
+			},
+			"FIRE_POPUP": {
+				"TITLE": "解雇",
+				"DESCRIPTION": "您确定要解雇{name}吗？",
+				"PLACEHOLDER": "ID",
+				"CANCEL": "取消",
+				"PROCEED": "继续"
+			},
+			"CALL_POPUP": {
+				"TITLE": "呼叫",
+				"DESCRIPTION": "您确定要呼叫{name}吗？",
+				"CANCEL": "取消",
+				"PROCEED": "继续"
+			}
+        },
+        "CRYPTO": {
+            "TITLE": "加密货币",
+			"BALANCE": "估计余额",
+			"BUY": "购买",
+			"SELL": "出售",
+			"TRANSFER": "转账",
+			"SELL_ALL": "全部出售",
+			"NO_MONEY": "您的资金不足",
+			"NO_COINS": "您没有这种币种",
+			"NOT_ENOUGH_COINS": "您的币种不足",
+			"ATLEAST_ONE_COIN": "您必须{action}至少一枚{currency}",
+			"INVALID_COIN": "无效的币种",
+			"NO_NUMBER": "未提供手机号码",
+			"INVALID_NUMBER": "无效的手机号码（用户可能不在线）",
+			"ERROR": "错误",
+			"CLOSE": "关闭",
+			"BUY_POPUP": {
+				"TITLE": "购买{coin}",
+				"DESCRIPTION": "输入您要购买的{coin}（以$计价）数量",
+				"PLACEHOLDER": "$1000",
+				"CANCEL": "取消",
+				"PROCEED": "继续"
+			},
+			"SELL_POPUP": {
+				"TITLE": "出售{coin}",
+				"DESCRIPTION": "输入您要出售的{coin}（以$计价）数量",
+				"PLACEHOLDER": "$1000"
+			},
+			"SELL_ALL_POPUP": {
+				"TITLE": "全部出售{coin}",
+				"DESCRIPTION": "您确定要以${amount}出售您所有的{coin}吗？"
+			},
+			"TRANSFER_POPUP": {
+				"TITLE": "转账{coin}",
+				"DESCRIPTION": "输入您要转账的{coin}（以$计价）数量（在下一步中选择联系人）",
+				"PLACEHOLDER": "$1000",
+				"NEXT": "下一步"
+			},
+			"SUCCESSFULLY_TRANSFERED_POPUP": {
+				"TITLE": "成功转账",
+				"DESCRIPTION": "您成功地将${amount}的{coin}转账给了{number}",
+				"CLOSE": "关闭"
+			}
+        },
+        "TIKTOK": {
+            "TITLE": "Trendy",
+
+			"HOME": "首页",
+			"DISCOVER": "探索",
+			"INBOX": "收件箱",
+			"PROFILE": "个人资料",
+
+			"COMMENTS_TITLE": "{count} 条评论",
+			"REPLY": "回复",
+			"VIEW_REPLIES": "查看回复",
+			"ADD_COMMENT": "添加评论...",
+			"REPLY_TO": "回复 {name}",
+			"PIN_COMMENT": "置顶评论",
+			"UNPIN_COMMENT": "取消置顶评论",
+			"DELETE_COMMENT": "删除评论",
+			"DELETE": "删除",
+			"PINNED": "已置顶",
+			"PIN_VIDEO": "置顶视频",
+			"UNPIN_VIDEO": "取消置顶视频",
+			"PIN": "置顶",
+			"UNPIN": "取消置顶",
+			"MAX_PINNED_TITLE": "最多置顶",
+			"MAX_PINNED_DESCRIPTION": "您最多可以置顶 3 条视频",
+			"OK": "确定",
+			"CREATOR": "创作者",
+			"LIKED_BY_CREATOR": "创作者点赞",
+
+            "PIN_VIDEO_POPUP": {
+				"TITLE": "置顶视频",
+				"DESCRIPTION": "您确定要{action}此视频吗？",
+				"CANCEL": "取消",
+				"PROCEED": "继续"
+			},
+			"DELETE_VIDEO_POPUP": {
+				"TITLE": "删除视频",
+				"DESCRIPTION": "您确定要删除此视频吗？",
+				"CANCEL": "取消",
+				"PROCEED": "继续"
+			},
+			"FAILED_UPLOAD_POPUP": {
+				"TITLE": "上传TTS失败",
+				"DESCRIPTION": "服务器所有者尚未正确设置音频上传，请联系他们解决此问题。",
+				"CANCEL": "取消",
+				"PROCEED": "忽略"
+			},
+
+            "SHARE_TITLE": "分享至",
+			"SHARE": "分享",
+			"REPORT": "举报",
+			"SAVE_VIDEO": "保存视频",
+			"ADD_FAVOURITE": "添加到收藏",
+			"CANCEL": "取消",
+			"GO_BACK": "返回",
+
+			"FOLLOWING": "正在关注",
+			"FOLLOWERS": "粉丝",
+			"UNFOLLOW": "取消关注",
+			"FOLLOW": "关注",
+			"FOR_YOU": "为您推荐",
+			"VIDEOS": "视频",
+			"LIKES": "点赞",
+
+            "UNFOLLOW_POPUP": {
+                "TITLE": "取消关注",
+				"DESCRIPTION": "您确定要取消关注{name}吗？",
+				"CANCEL": "取消",
+				"PROCEED": "继续"
+            },
+
+            "LOGIN_TITLE": "登录 Trendy",
+			"LOGIN_SUBTITLE": "管理您的帐户，查看通知，评论视频等。",
+			"SIGNUP_TITLE": "注册 Trendy",
+			"SIGNUP_SUBTITLE": "创建个人资料，关注其他帐户，制作自己的视频等。",
+			"NAME": "姓名",
+			"USERNAME": "用户名",
+			"PASSWORD": "密码",
+			"BIO": "个人简介",
+			"SHOW_LIKES": "显示点赞",
+
+			"LOGIN": "登录",
+			"SIGNUP": "注册",
+			"NO_ACCOUNT": "还没有帐户？",
+			"ALREADY_ACCOUNT": "已经有帐户了？",
+			"SEARCH_PLACEHOLDER": "搜索用户",
+
+			"STARTED_FOLLOWING": "开始关注您。",
+			"LIKED_VIDEO": "点赞了您的视频。",
+			"LIKED_COMMENT": "点赞了您的评论。",
+			"SAVED_VIDEO": "将您的视频添加到收藏夹。",
+			"COMMENTED": "评论：{comment}",
+			"REPLIED": "回复了您的评论：{comment}",
+
+			"EDIT_PROFILE": "编辑个人资料",
+			"MESSAGE": "消息",
+			"CHANGE_PHOTO": "更改头像",
+			"LOGOUT": "注销",
+			"ADD_TO_YOUR_PROFILE": "添加到您的个人资料",
+			"LIKED_HIDDEN_TITLE": "此用户的点赞视频是私密的。",
+			"LIKED_HIDDEN_SUBTITLE": "{name} 点赞的视频目前已隐藏。",
+
+            "INVALID_ACCOUNT_POPUP": {
+				"TITLE": "无效的{name}",
+				"DESCRIPTION": "您未登录到输入的{name}帐户，请更正。",
+				"OK": "确定"
+			},
+			"REMOVE_ACCOUNT_POPUP": {
+				"TITLE": "删除{name}帐户",
+				"DESCRIPTION": "您确定要从个人资料中删除{name}帐户吗？",
+				"CANCEL": "取消",
+				"PROCEED": "继续"
+			},
+
+            "ADD_ACCOUNT_TITLE": "添加帐户",
+			"ADD_ACCOUNT": "将{name}添加到您的个人资料",
+			"UPLOAD_VIDEO": "上传视频",
+			"PREVIEW": "预览",
+			"CAPTION": "标题",
+			"CAPTION_PLACEHOLDER": "添加标题...",
+			"TTS": "文字转语音（TTS）",
+			"TTS_PLACEHOLDER": "添加文字转语音...",
+			"MUSIC": "音乐",
+			"SELECT_MUSIC": "选择音乐",
+			"OPTIONAL": "可选",
+
+			"DIRECT_MESSAGES": "私信",
+			"ALL_ACTIVITY": "全部活动",
+			"NO_NOTIFICATIONS": "通知不可用",
+			"NO_NOTIFICATIONS_SUBTITLE": "关于您的帐户的通知将显示在此处。",
+			"NO_FOLLOWING_TITLE": "开始关注其他人，他们的视频将显示在此处。",
+			"NO_MESSAGES_TITLE": "给您的朋友发消息",
+			"NO_MESSAGES_SUBTITLE": "分享视频或开始对话"
+        },
+        "VOICEMEMO": {
+            "TITLE": "语音备忘录",
+			"ALL_RECORDINGS": "所有录音",
+			"DEFAULT_NAME": "新录音",
+			"DELETE_POPUP": {
+				"TITLE": "删除语音备忘录",
+				"DESCRIPTION": "您确定要删除这个语音备忘录吗？",
+				"CANCEL": "取消",
+				"PROCEED": "继续"
+			},
+			"NO_MICROPHONE_POPUP": {
+				"TITLE": "无麦克风",
+				"DESCRIPTION": "我们无法访问您的麦克风，请确保已连接麦克风并接受屏幕右上角的弹出窗口。",
+				"OK": "确定"
+			}
+        }
+    },
+    "COMPONENTS": {
+        "CONTEXT_MENU": {
+            "CANCEL": "取消",
+			"CALL": "呼叫",
+			"VIDEO_CALL": "视频呼叫",
+			"MESSAGE": "消息"
+        },
+        "IMAGE": {
+        "SAVE_TO_GALLERY": "保存到相册"
+    },
+		"GALLERY": {
+			"CANCEL": "取消",
+			"EXTERNAL_URL": "外部链接",
+			"NO_IMAGES": "没有图片"
+		},
+		"NOTIFICATIONS": {
+			"SENT_PHOTO": "发送了一张照片",
+			"SENT_GIF": "发送了一个GIF",
+			"NOW": "现在"
+		},
+		"SHARE": {
+			"COPY_PHOTO": "复制照片",
+			"USE_WALLPAPER": "设为壁纸",
+			"COPY_NUMBER": "复制号码",
+			"AIRDROP_SENT": "已发送",
+			"AIRDROP_ACCEPTED": "已接受",
+			"AIRDROP_DECLINED": "已拒绝",
+			"AIRDROP_NO_USERS": "附近没有手机",
+			"WALLPAPER_POPUP": {
+				"TITLE": "设为壁纸",
+				"TEXT": "您确定要将这张图片设为壁纸吗？",
+				"CANCEL": "取消",
+				"PROCEED": "继续"
+			}
+        },
+        "AIRDROP": {
+            "TITLE": "Airdrop",
+			"TEXT": "{sender} 想要分享一个 {type}",
+			"VIDEO": "视频",
+			"PHOTO": "照片",
+			"CONTACT": "联系人",
+			"LOCATION": "位置",
+			"NOTE": "备注",
+			"VOICEMEMO": "语音备忘录",
+			"PLAYLIST": "播放列表",
+			"DECLINE": "拒绝",
+			"ACCEPT": "接受"
+		},
+		"DYNAMICISLAND": {
+			"SILENT": "静音",
+			"RING": "响铃",
+			"TIMER": "计时器"
+		},
+		"MUSIC_SELECTOR": {
+			"CANCEL": "取消",
+			"NO-RESULTS": "未配置音乐，请告知服务器所有者添加歌曲",
+			"SEARCH": "搜索歌曲",
+			"SELECT_POPUP": {
+				"TITLE": "选择歌曲",
+				"DESCRIPTION": "您确定要选择 {song}",
+				"CANCEL": "取消",
+				"PROCEED": "继续"
+        }
+        },
+        "BATTERY": {
+            "LOW_BATTERY": "电池电量低",
+			"BATTERY_REMAINING": "剩余电量 {percent}%",
+			"LOW_POWER_MODE": "低电量模式",
+			"CLOSE": "关闭"
+		},
+		"COLOR_PICKER": {
+			"COLOR": "颜色"
+        }
+    },
+    "SETUP": {
+        "HELLO": "你好",
+		"NEXT": "点击以打开",
+		"CREATE_PASSCODE": "创建密码",
+		"CREATE_PASSCODE_TEXT": "密码可保护您的数据，并用于解锁您的手机。",
+		"SKIP": "跳过此步骤",
+		"FACE_ID_SETUP": "Face ID 设置",
+		"FACE_ID_TEXT": "设置 Face ID，可以在您的脸部出现在画面内时自动解锁手机。",
+		"ENABLE_FACE_ID": "启用 Face ID",
+		"APPEARANCE": "外观",
+		"APPEARANCE_TEXT": "选择明亮或深色外观",
+		"CONTINUE": "继续",
+		"WELCOME_TO": "欢迎来到",
+		"CLICK": "点击开始"
+    },
+    "HOMESCREEN": {
+        "DONE": "完成",
+		"REMOVE_APP_POPUP": {
+			"TITLE": "删除 '{app}'？",
+			"DESCRIPTION": "删除此应用程序不会删除其数据。该应用程序可以稍后从应用商店重新安装。",
+			"CANCEL": "取消",
+			"PROCEED": "删除"
+        }
+    },
+    "LOCKSCREEN": {
+        "ENTER_PASSCODE": "输入密码",
+		"DELETE": "删除",
+		"FONT_AND_COLOR": "字体和颜色"
+    },
+    "MISC": {
+        "AIRPLANE_MODE_POPUP": {
+            "TITLE": "错误",
+			"DESCRIPTION": "您正在尝试执行需要互联网访问的操作，请禁用飞行模式以继续。",
+			"OK": "确定"
+        }
+    },
+    "BACKEND": {
+        "CALLS": {
+            "NO_CALLER_ID": "无来电显示",
+			"MISSED_CALL": "未接来电",
+			"NEW_VOICEMAIL": "新语音邮件"
+        },
+        "GARAGE": {
+            "VALET": "代客泊车",
+			"COULDNT_FIND": "找不到车辆。",
+			"ALREADY_OUT": "该车辆已经出库。",
+			"NO_MONEY": "您的余额不足。",
+			"ON_WAY": "您的车辆正在路上。",
+			"MARKED": "您的车辆已在GPS上标记。"
+        },
+        "INSTAGRAM": {
+            "NOT_ALLOWED_LIVE": "您没有权限直播",
+			"NOT_ALLOWED_STORY": "您没有权限发布故事",
+			"STARTED_LIVE": "{username} 开始了一个直播视频",
+			"JOINED_LIVE": "{invitee} 现在与 {inviter} 一起直播。",
+			"LIKED_PHOTO": "{username} 喜欢了您的照片",
+			"LIKED_COMMENT": "{username} 喜欢了您的评论",
+			"COMMENTED": "{username} 评论了您的帖子",
+			"NEW_FOLLOWER": "{username} 开始关注您",
+			"FOLLOW_REQUEST_ACCEPTED_TITLE": "关注请求已接受",
+			"FOLLOW_REQUEST_ACCEPTED_DESCRIPTION": "{displayName} ({username}) 接受了您的关注请求。",
+			"NEW_FOLLOW_REQUEST_TITLE": "新的关注请求",
+			"NEW_FOLLOW_REQUEST_DESCRIPTION": "{displayName} ({username}) 请求关注您。"
+        },
+        "TINDER": {
+            "NEW_MATCH": "新匹配",
+			"MATCHED_WITH": "您与 {name} 匹配了"
+        },
+        "CAMERA": {
+            "TAKE_PHOTO": "按 {key} 拍照",
+			"FLIP_CAMERA": "按 {key} 切换摄像头",
+			"TOGGLE_FLASH": "按 {key} 切换闪光灯",
+			"TOGGLE_CURSOR": "按 {key} 切换光标并查看周围",
+			"CHANGE_MODE": "按 {key} {key2} 切换摄像头模式"
+        },
+        "SERVICES": {
+            "NEW_MESSAGE": "新消息",
+			"ANONYMOUS": "匿名"
+        },
+        "TWITTER": {
+            "LIKE": "被 {displayName} 喜欢：",
+			"RETWEET": "被 {displayName} 转发：",
+			"REPLY": "{displayName} 回复：",
+			"FOLLOW": "{username} 开始关注您",
+			"TWEET": "{username} 刚刚发布了",
+			"FOLLOW_REQUEST_ACCEPTED_DESCRIPTION": "@{username} 已接受您的关注请求。",
+			"NEW_FOLLOW_REQUEST": "@{username} 请求关注您！"
+        },
+        "TIKTOK": {
+            "LIKE": "{displayName} 喜欢了您的视频。",
+			"COMMENT": "{displayName} 评论了您的视频。",
+			"FOLLOW": "{displayName} 开始关注您。",
+			"SAVE": "{displayName} 收藏了您的视频。",
+			"LIKED_COMMENT": "{displayName} 喜欢了您的评论。",
+			"REPLIED_COMMENT": "{displayName} 回复了您的评论。",
+			"DM": "{displayName}"
+        },
+        "MISC": {
+            "VERIFIED": "您的帐户已经验证",
+			"X_PHONE": "{name} 的电话"
+        },
+        "CRYPTO": {
+            "RECEIVED_TRANSFER_TITLE": "收到 {coin}",
+			"RECEIVED_TRANSFER_DESCRIPTION": "您收到了价值 {value} 的 {amount} {coin}"
+        },
+        "LOGS": {
+            "MAIL_TITLE": "电子邮件",
+			"NEW_MAIL": "{sender} 向 {recipient} 发送了一封电子邮件",
+
+			"MESSAGE_TITLE": "短信",
+			"NEW_MESSAGE": "{sender} 向 {recipient} 发送了一条短信：{message}",
+
+			"CALL_ENDED": "通话结束",
+			"CALL_DESCRIPTION": "持续时间为 {duration} 秒的一通通话已结束，来电者：{caller}，接听者：{callee}。已接听：{answered}",
+
+			"NEW_SERVICE_TITLE": "新消息",
+			"NEW_SERVICE_CONTENT": "{sender} 向 {channel} 发送了一条消息：{message}",
+
+			"RECEIVED_TITLE": "收到 ${amount}",
+			"PAID_TITLE": "支付 ${amount}",
+			"TRANSACTION": "{number} 向 {company} 进行了 ${amount} 的交易",
+
+			"BOUGHT_CRYPTO": "购买了加密货币",
+			"SOLD_CRYPTO": "出售了加密货币",
+			"CRYPTO_DETAILS": "**币种**：{coin}\n**数量**：{amount}\n**价值**：${price}",
+			"TRANSFERRED_CRYPTO": "转移了加密货币",
+			"TRANSFERRED_CRYPTO_DETAILS": "**币种**：{coin}\n**数量**：{amount}\n**收款方**：{to}\n**发送方**：{from}",
+
+			"DARKCHAT_CREATED_TITLE": "创建了频道",
+			"DARKCHAT_CREATED_DESCRIPTION": "{creator} 创建了名为 {channel} 的频道",
+			"DARKCHAT_MESSAGE_TITLE": "新消息",
+			"DARKCHAT_MESSAGE_DESCRIPTION": "{sender} 在 {channel} 发送了一条消息：{message}",
+
+			"MARKETPLACE_NEW_TITLE": "新列表",
+			"MARKETPLACE_NEW_DESCRIPTION": "**卖家**：{seller}\n**标题**：{title}\n**价格**：${price}\n**描述**：{description}\n**附件**：{attachments}\n**ID:** {id}",
+			"MARKETPLACE_DELETED": "帖子已删除",
+
+			"YELLOWPAGES_NEW_TITLE": "新帖子",
+			"YELLOWPAGES_NEW_DESCRIPTION": "**标题**：{title}\n**描述**：{description}\n**附件**：{attachment}\n**ID:** {id}",
+			"YELLOWPAGES_DELETED": "帖子已删除",
+
+			"LIVE_TITLE": "直播",
+			"STARTED_LIVE": "{username} 开始了一场直播",
+			"ENDED_LIVE": "{username} 结束了一场直播",
+			"ADDED_STORY": "{username} 添加了一张照片到他们的故事",
+
+			"TRENDY_UPLOAD_TITLE": "新视频",
+			"TRENDY_UPLOAD_DESCRIPTION": "{username} 上传了一段新视频，标题为 {caption}，ID 为 {id}",
+			"TRENDY_DELETE_TITLE": "删除了一段视频",
+			"TRENDY_DELETE_DESCRIPTION": "{username} 删除了一段视频，ID 为 {id}"
+        }
+    }
+}
